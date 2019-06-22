@@ -4,13 +4,16 @@ PalmCalc
 
 It currently consists of:
 
-
 * Scientific Calculator
 * Unit Converter
 * Basic Calculator
 * Tip Calculator
 * World Clock
 * BMI Calculator
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.github.palmcalc2019.palmcalc/)
 
 Scientific Calculator
 -----
@@ -52,7 +55,6 @@ World Clock
 BMI Calcultor
 ------------
 
-* English and Metric mode Are avaliable
-* Weight categorization Ex.Normal Weight,Under Weight, Obsse etc
-* Wheel picker for Easy Selection
-
+* English and Metric mode are available
+* Weight categorization Ex.Normal Weight,Under Weight, Obesse etc
+* Wheel picker for easy selection
